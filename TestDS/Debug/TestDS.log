@@ -1,2 +1,3 @@
-﻿  TestDS.cpp
+﻿  Array_Point.cpp
+e:\myproject\testds\testds\array_point.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
   TestDS.vcxproj -> E:\MyProject\TestDS\Debug\TestDS.exe

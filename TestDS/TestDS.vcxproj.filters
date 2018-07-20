@@ -26,6 +26,9 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Array_Point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="TestDS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
